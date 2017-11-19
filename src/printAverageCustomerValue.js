@@ -1,5 +1,5 @@
 import {readPeople} from "./readPeople";
-import {averageCustomerValue, peopleWithinRange} from "../dist/customers";
+import {averageCustomerValue, peopleWithinRange} from "./customers";
 
 
 readPeople(people => {
