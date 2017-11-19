@@ -1,0 +1,6 @@
+Instructions for use:
+
+1) Run yarn or npm install to install dependencies (I have only tested with yarn).
+2) Run npm build to compile the code
+3) Run npm test to run the test suite
+4) The commands "npm run showPeople" and "npm run showAverage" correspond to the two programs that the test asked for.
